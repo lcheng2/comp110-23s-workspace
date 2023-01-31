@@ -29,8 +29,10 @@ if word[4] == char:
     number_of_char = number_of_char + 1
     print(str(char) + " found at index 4")
 if number_of_char == 0:
-    print("No instances of " + str(char) + "found in heels")
-if number_of_char == 1:
+    print("No instances of " + str(char) + " found in " + str(word))
+elif number_of_char == 1:
     print(str(number_of_char) + " instance of " + str(char) + " found in " + str(word))
 else:
     print(str(number_of_char) + " instances of " + str(char) + " found in " + str(word))
+
+    
