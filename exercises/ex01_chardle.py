@@ -1,4 +1,5 @@
 """EX01 - Chardle"""
+
 __author__ = "730517752"
 
 word: str = input("Enter a 5-character word: ")
