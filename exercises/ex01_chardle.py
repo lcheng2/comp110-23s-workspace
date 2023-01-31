@@ -1,4 +1,4 @@
-"""EX01 - Chardle"""
+"""EX01 - Chardle."""
 
 __author__ = "730517752"
 
