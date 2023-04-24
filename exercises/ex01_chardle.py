@@ -15,7 +15,7 @@ print("Searching for " + char + " in " + word)
 
 if word[0] == char:
     number_of_char = number_of_char + 1
-    print(str(char) + " found at index 0")
+    print(f" found at index 0")
 if word[1] == char:
     number_of_char = number_of_char + 1
     print(str(char) + " found at index 1")
